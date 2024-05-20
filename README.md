@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on front end development 
 - 📫 How to reach me via Instagram malugujoshua 
 - 😄 Pronouns: Kiswahili and English 
-- ⚡ Fun fact: Football game and movies 
+- ⚡ Fun fact: Graphics design, Football game and movies 
 
 <!---
 josmal/josmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
